@@ -1,0 +1,1 @@
+account.withdraw(400); // Output: Insufficient balance
